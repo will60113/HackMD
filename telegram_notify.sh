@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Telegram Bot Token 和 Chat ID
-TOKEN="7898763629:AAErrUgR8LVqdjWjAiBDfvrqsfEMokeXpVE"
-CHAT_ID="-4717527527"  # Telegram chat_id
+TOKEN="Bot token"
+CHAT_ID="聊天室ID"  # Telegram chat_id
 
 # 由 Zabbix 傳入的參數
 MESSAGE="$1"
